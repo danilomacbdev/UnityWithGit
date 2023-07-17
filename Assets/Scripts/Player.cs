@@ -13,6 +13,11 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        PlayerMove();
+    }
+
+    void PlayerMove()
+    {
+        //Script do player se movendo com WASD
     }
 }
